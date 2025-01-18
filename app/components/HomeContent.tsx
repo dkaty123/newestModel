@@ -120,7 +120,7 @@ export default function HomeContent() {
                         className="rounded-full mr-4"
                     />
                     <div>
-                        <h1 className="text-3xl font-bold text-primary-800 dark:text-primary-200">AnonTherapy</h1>
+                        <h1 className="text-3xl font-bold text-primary-800 dark:text-primary-200">Doc2You</h1>
                         <h2 className="text-xl font-semibold text-neutral-600 dark:text-neutral-400">
                             Voice-enabled AI Therapy
                         </h2>
